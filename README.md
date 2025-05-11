@@ -1,3 +1,6 @@
+Names and ID:
+NKUBIRI RUGERO Tresor : 26858
+INEZA RWIBASIRA Kenia : 26958
 # SQL Developer Queries - Explanation
 
 This README documents the SQL queries and datasets created as part of the **PLSQL-assignment/Stargit** repository. Below are detailed explanations of each query used in Oracle SQL Developer, including table creation, data insertion, and analytical queries using window functions.
