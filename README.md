@@ -1,6 +1,7 @@
 Names and ID:
 
 **NKUBIRI RUGERO Tresor : 26858**
+
 **INEZA RWIBASIRA Kenia : 26958**
 
 # SQL Developer Queries - Explanation
